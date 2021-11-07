@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * 
- * @author Gabriel Masutier y Rosa Liliana Rivera
+ * @author Katterin
  */
 @Service
 public class ServiciosFinca {

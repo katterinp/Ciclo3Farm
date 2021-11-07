@@ -13,7 +13,7 @@ import javax.persistence.Id;
 
 /**
  * 
- * @author Gabriel Masutier y Rosa Liliana Rivera
+ * @author Katterin
  */
 @Entity
 @Table(name = "category")

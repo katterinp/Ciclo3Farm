@@ -12,7 +12,7 @@ import javax.persistence.Table;
 
 /**
  * 
- * @author Gabriel Masutier y Rosa Liliana Rivera
+ * @author Katterin
  */
 @Entity
 @Table(name = "message")
